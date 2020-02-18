@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ebb238b-b5ec-4588-929f-7cf74c657427" name="Default Changelist" comment="" />
+    <list default="true" id="3ebb238b-b5ec-4588-929f-7cf74c657427" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/scroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/scroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +54,10 @@
       <option name="presentableId" value="Default" />
       <updated>1581748791369</updated>
       <workItem from="1581748796959" duration="10437000" />
-      <workItem from="1581764715224" duration="282000" />
+      <workItem from="1581764715224" duration="602000" />
+      <workItem from="1581765351671" duration="671000" />
+      <workItem from="1581933097581" duration="1894000" />
+      <workItem from="1581953693730" duration="453000" />
     </task>
     <servers />
   </component>

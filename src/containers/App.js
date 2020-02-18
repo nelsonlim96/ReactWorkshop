@@ -35,7 +35,7 @@ class App extends Component {
 
         const filterWeather = weather.filter(eachWeather => {
             return eachWeather.name.toLowerCase().includes(searchfield.toLowerCase())
-        })
+        });
 
         if (weather.length === 0) {
             return <h1>Loading</h1>
